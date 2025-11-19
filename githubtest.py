@@ -147,4 +147,5 @@ class GUIWindow(tk.Tk):
 
 if __name__ == '__main__':
     window = GUIWindow()
+
     window.mainloop()
